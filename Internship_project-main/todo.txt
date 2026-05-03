@@ -1,0 +1,3 @@
+add button nxt to chat input otherwise add upload file option in sidebar
+
+add a dropdown next to ruby which contains user info
